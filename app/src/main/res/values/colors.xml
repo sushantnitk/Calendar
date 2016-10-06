@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="peterRiver">#3498db</color>
+    <color name="turquoise">#1abc9c</color>
+    <color name="emeraland">#2ecc71</color>
+    <color name="ameythist">#9b59b6</color>
+    <color name="wetaSphalt">#34495e</color>
+    <color name="greensea">#16a085</color>
+    <color name="sunflower">#f1c40f</color>
+    <color name="carror">#e67e22</color>
+    <color name="alizarin">#e74c3c</color>
+    <!---Social Color-->
+    <color name="messanger">#0084ff</color>
+    <color name="twitter">#55acee</color>
+    <color name="youtube">#cd201f</color>
+    <color name="quora">#b92b27</color>
+    <color name="googlePlus">#dd4b39</color>
+    <color name="whastsApp">#55acee</color>
+    <color name="behance">#131418</color>
+    <color name="hackerNews">#ff6600</color>
+    <color name="Line">#00c300</color>
+    <color name="slack">#3aaf85</color>
+    <!--Metro Colors-->
+    <color name="Lime">#a4c400</color>
+    <color name="green">#60a917</color>
+    <color name="teal">#00aba9</color>
+    <color name="cyan">#1ba1e2</color>
+    <color name="cobalt">#0050ef</color>
+    <color name="indigo">#6a00ff</color>
+    <color name="pink">#f472d0</color>
+    <color name="yellow">#e3c800</color>
+    <color name="steel">#647687</color>
+
+</resources>
